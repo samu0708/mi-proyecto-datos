@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.csv
+*.parquet
+*.json
+*.log
+.vscode/
+.idea/
+.DS_Store
